@@ -2,7 +2,9 @@
  
 A simple (Human vs Human) chess game made in Java using the Swing for the GUI.
 
-Watch the demo at: https://youtu.be/75fPROiHqzU
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:83.08%;position:relative;"><iframe width="260" height="216" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4s0rrz"></iframe></div><p><a href="https://imgflip.com/gif/4s0rrz">via Imgflip</a></p></div>
+
+Watch the full demo at: https://youtu.be/75fPROiHqzU
 
 GUI inspired by : https://www.chess.com/ (ICY SEA)
 
